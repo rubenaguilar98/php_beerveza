@@ -1,0 +1,42 @@
+#body{
+    background-color: #FFDD33;
+}
+
+#logo{
+    width: 120px;
+    height: 140px;
+    display: block;
+    margin: auto;
+}
+
+#logo-index{
+    width: 200px;
+    height: 220px;
+    display: block;
+    margin: auto;
+}
+
+#hola{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 250px;
+}
+
+#eslogan{
+    text-align: center;
+    font-size: 70px;
+    font-weight:bold;
+}
+
+.container-flex div a{
+    color : yellow;
+}
+
+table{
+    margin-top: 50px;
+    text-align: center;
+}
+
+th{
+    width : 17%;
+}
